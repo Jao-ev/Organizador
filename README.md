@@ -22,5 +22,5 @@ Um aplicativo simples e intuitivo feito em Python com `tkinter`, para ajudar est
 
 1. Clone o repositório:
    ```bash
-   git clone https://github.com/seu-usuario/organizador-estudos.git
+   git clone https://github.com/Jao-ev/Organizador.git
    cd organizador-estudos
